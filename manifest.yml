@@ -2,8 +2,7 @@ applications:
 - disk_quota: 1024M
   host: vishaldemonov17
   name: vishaldemonov17
-  path: JavaHelloWorldApp.war
+  path: target/JavaHelloWorldApp.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
-
